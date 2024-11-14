@@ -1,0 +1,20 @@
+ID,Name,Age,Gender,City,Salary,Department,Joining Date
+1,John Doe,29,Male,Berlin,55000,Engineering,2020-05-01
+2,Jane Smith,34,Female,New York,62000,Marketing,2018-08-15
+3,Mike Johnson,40,Male,London,75000,Sales,2017-03-10
+4,Emily Davis,25,Female,Paris,49000,HR,2021-06-25
+5,James Brown,33,Male,Boston,67000,IT,2019-09-22
+6,Olivia White,28,Female,Los Angeles,54000,Design,2020-11-11
+7,Chris Green,38,Male,Tokyo,72000,Engineering,2016-12-05
+8,Amy Clark,22,Female,Sydney,46000,Marketing,2022-01-13
+9,David Wilson,30,Male,Amsterdam,59000,Sales,2018-07-20
+10,Sophia Martinez,26,Female,San Francisco,53000,HR,2020-02-09
+11,Matthew Lee,41,Male,Madrid,81000,IT,2015-05-17
+12,Charlotte Hall,35,Female,Paris,68000,Design,2017-01-30
+13,Daniel Adams,29,Male,London,60000,Engineering,2021-09-18
+14,Isabella King,31,Female,New York,71000,Marketing,2019-04-11
+15,Jack Moore,27,Male,Chicago,57000,Sales,2020-07-14
+16,Emily Allen,32,Female,Berlin,65000,HR,2018-03-25
+17,William Scott,43,Male,Boston,80000,Engineering,2016-09-30
+18,Grace Wright,24,Female,Sydney,52000,Design,2021-12-12
+19,Lucas Harris,36,Male,Los Angeles,76000,IT,2017-04-02
