@@ -21,6 +21,6 @@ t.milage()
 
 h = Honda()
 h.milage()
-print(t.milage())
+print(h.milage())
 
 
